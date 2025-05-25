@@ -21,6 +21,13 @@ header {
   display: inherit;
 }
 
+.center-wrapper {
+  max-width: 1000px;
+  width: 100%;
+  padding: 50px 10px;
+  margin: 0 auto;
+}
+
 .header-img {
   width: 150px;
   height: 150px;
@@ -39,8 +46,10 @@ h1 {
   background-color: black;
   display: flex;
   justify-content: center;
-  padding: 6rem 1rem;
-  margin: auto;
+  max-width: 2000px;
+  width: 100%;
+  padding: 50px 10px;
+  margin: 0 auto;
 }
 
 .social-link {
@@ -60,8 +69,11 @@ h2 {
 
 .about-section {
   color: rgb(51, 51, 51);
-  height: 300px;
   display: flex;
+  max-width: 1000px;
+  width: 100%;
+  padding: 50px 10px;
+  margin: 0 auto;
 }
 
 .about-img {
@@ -82,6 +94,9 @@ h2 {
 
 footer {
   background-color: rgb(51, 51, 51);
-  height: 5rem;
   padding: 2.2rem;
+  max-width: 2000px;
+  width: 100%;
+  padding: 50px 10px;
+  margin: 0 auto;
 }
