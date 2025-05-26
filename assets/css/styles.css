@@ -74,18 +74,17 @@ h2 {
   width: 100%;
   padding: 50px 10px;
   margin: 0 auto;
+  gap: 200px;
 }
 
 .about-img {
   width: 50%;
   text-align: end;
-  margin: auto 4rem;
 }
 
 .about-text {
   width: 50%;
   text-align: left;
-  margin: auto 2rem;
 }
 
 .about-text-content {
